@@ -1,4 +1,4 @@
-  const dogName = ['Xerox', "Boo Radley", "Bunny", "Mary J. Blige", "Santa Paws", "Lauren"];
+  const dogName = ["Mary J. Blige", "Santa Paws", "Lauren"];
   const dogBreed = ['Border Collie', 'Pibble'];
 function wakeDog() {
   const dogName = ['Xerox'];
@@ -17,10 +17,14 @@ function leashDog() {
 function walkToPark() {
   const dogName = ['Bunny'];
   const dogBreed = ['Labrador'];
-
   return("Walk to the park with " + dogName + " the " + dogBreed);
 }
 
+function throwFrisbee() {
+  const dogName = ['Mary J. Blige'];
+  const dogBreed = ['Labrador'];
+  return("Walk to the park with " + dogName + " the " + dogBreed);
+}
 
 function throwFrisbee(dogName, dogBreed) {
   return("Wake " + dogName[1] + " the " + dogBreed[1]);
