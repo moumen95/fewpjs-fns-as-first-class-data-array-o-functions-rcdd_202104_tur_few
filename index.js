@@ -9,7 +9,7 @@ function leashDog(dogName, dogBreed) {
   return("Wake " + dogName[1] + " the " + dogBreed[1]);
 }
 
-function leashDog(dogName, dogBreed) {
+function walkToPark(dogName, dogBreed) {
   return("Wake " + dogName[1] + " the " + dogBreed[1]);
 }
 
