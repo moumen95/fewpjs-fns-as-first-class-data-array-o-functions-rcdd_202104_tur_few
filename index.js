@@ -1,4 +1,4 @@
-function wakeDog(a, b) {
+function wakeDog(dogName, b) {
   const dogName = ['Xerox'];
   const dogBreed = ['Border Collie'];
 
