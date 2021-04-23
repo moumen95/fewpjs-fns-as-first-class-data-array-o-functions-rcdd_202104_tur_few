@@ -4,7 +4,7 @@ function wakeDog(dogName, dogBreed) {
   return("Wake " + dogName + " the " + dogBreed);
 }
 
-function wakeDog(dogName, dogBreed) {
+function leashDog(dogName, dogBreed) {
   return("Wake " + dogName + " the " + dogBreed);
 }
 
