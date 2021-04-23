@@ -1,10 +1,10 @@
-function wakeDog() {
+function wakeDog(a, b) {
   const dogName = ['Xerox'];
   const dogBreed = ['Border Collie'];
 
   return("Wake " + dogName + " the " + dogBreed);
 }
-function leashDog() {
+function leashDog(a, b) {
   const dogName = ['Boo Radley'];
   const dogBreed = ['Pibble'];
 
@@ -18,20 +18,20 @@ function walkToPark(a, b) {
   return("Walk to the park with " + dogName + " the " + dogBreed);
 }
 
-function throwFrisbee() {
+function throwFrisbee(a, b) {
   const dogName = ['Mary J. Blige'];
   const dogBreed = ['Papillon'];
   return("Throw the frisbee for " + dogName + " the " + dogBreed);
 }
 
-function walkHome() {
+function walkHome(a, b) {
   const dogName = ['Santa Paws'];
   const dogBreed = ['Husky'];
   return("Walk home with " + dogName + " the " + dogBreed);
 }
 
 
-function unleashDog() {
+function unleashDog(a, b) {
   const dogName = ['Lauren'];
   const dogBreed = ['Golden Retriever'];
   return("Unleash " + dogName + " the " + dogBreed);
