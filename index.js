@@ -25,4 +25,8 @@ function unleashDog(dogName, dogBreed) {
   return("Unleash " + dogName + " the " + dogBreed);
 }
 
-function exerciesDog(dogName, dogBreed);
+function exerciesDog(dogName, dogBreed){
+  let exercies = [];
+  for (let i = 0; i < exerciesDog.length ; i++);
+  return (exercies);
+}
