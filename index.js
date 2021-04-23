@@ -26,14 +26,3 @@ function throwFrisbee() {
   return("Throw the frisbee for " + dogName + " the " + dogBreed);
 }
 
-function throwFrisbee(dogName, dogBreed) {
-  return("Wake " + dogName[1] + " the " + dogBreed[1]);
-}
-
-function walkHome(dogName, dogBreed) {
-  return("Wake " + dogName[1] + " the " + dogBreed[1]);
-}
-
-function unleashDog(dogName, dogBreed) {
-  return("Wake " + dogName[1] + " the " + dogBreed[1]);
-}
