@@ -1,39 +1,39 @@
-function wakeDog(dogName, b) {
-  const dogName = ['Xerox'];
-  const dogBreed = ['Border Collie'];
+function wakeDog(dogName, dogBreed) {
+  // const dogName = ['Xerox'];
+  // const dogBreed = ['Border Collie'];
 
   return("Wake " + dogName + " the " + dogBreed);
 }
-function leashDog(a, b) {
-  const dogName = ['Boo Radley'];
-  const dogBreed = ['Pibble'];
+function leashDog(dogName, dogBreed) {
+  // const dogName = ['Boo Radley'];
+  // const dogBreed = ['Pibble'];
 
   return("Leash " + dogName + " the " + dogBreed);
 }
 
 
-function walkToPark(a, b) {
-  const dogName = ['Bunny'];
-  const dogBreed = ['Labrador'];
+function walkToPark(dogName, dogBreed) {
+  // const dogName = ['Bunny'];
+  // const dogBreed = ['Labrador'];
   return("Walk to the park with " + dogName + " the " + dogBreed);
 }
 
-function throwFrisbee(a, b) {
-  const dogName = ['Mary J. Blige'];
-  const dogBreed = ['Papillon'];
+function throwFrisbee(dogName, dogBreed) {
+  // const dogName = ['Mary J. Blige'];
+  // const dogBreed = ['Papillon'];
   return("Throw the frisbee for " + dogName + " the " + dogBreed);
 }
 
-function walkHome(a, b) {
-  const dogName = ['Santa Paws'];
-  const dogBreed = ['Husky'];
+function walkHome(dogName, dogBreed) {
+  // const dogName = ['Santa Paws'];
+  // const dogBreed = ['Husky'];
   return("Walk home with " + dogName + " the " + dogBreed);
 }
 
 
-function unleashDog(a, b) {
-  const dogName = ['Lauren'];
-  const dogBreed = ['Golden Retriever'];
+function unleashDog(dogName, dogBreed) {
+// const dogName = ['Lauren'];
+// const dogBreed = ['Golden Retriever'];
   return("Unleash " + dogName + " the " + dogBreed);
 }
 
