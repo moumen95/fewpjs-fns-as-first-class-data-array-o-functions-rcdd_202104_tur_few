@@ -1,5 +1,3 @@
-  const dogName = ["Mary J. Blige", "Santa Paws", "Lauren"];
-  const dogBreed = ['Border Collie', 'Pibble'];
 function wakeDog() {
   const dogName = ['Xerox'];
   const dogBreed = ['Border Collie'];
@@ -28,13 +26,15 @@ function throwFrisbee() {
 
 function walkHome() {
   const dogName = ['Husky'];
-  const dogBreed = ['Papillon'];
-  return("Throw the frisbee for " + dogName + " the " + dogBreed);
+  const dogBreed = ['Santa Paws'];
+  return("Walk home with " + dogName + " the " + dogBreed);
 }
 
 
-function walkHome(dogName, dogBreed) {
-  return("Wake " + dogName[1] + " the " + dogBreed[1]);
+function unleashDog() {
+  const dogName = ['Lauren'];
+  const dogBreed = ['Santa Paws'];
+  return("Walk home with " + dogName + " the " + dogBreed);
 }
 
 function unleashDog(dogName, dogBreed) {
