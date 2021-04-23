@@ -19,12 +19,6 @@ function walkToPark() {
   const dogBreed = ['Labrador'];
   return("Walk to the park with " + dogName + " the " + dogBreed);
 }
-Husky
-function throwFrisbee() {
-  const dogName = ['Mary J. Blige'];
-  const dogBreed = ['Papillon'];
-  return("Throw the frisbee for " + dogName + " the " + dogBreed);
-}
 
 function throwFrisbee() {
   const dogName = ['Mary J. Blige'];
@@ -32,9 +26,12 @@ function throwFrisbee() {
   return("Throw the frisbee for " + dogName + " the " + dogBreed);
 }
 
-function throwFrisbee(dogName, dogBreed) {
-  return("Wake " + dogName[1] + " the " + dogBreed[1]);
+function walkHome() {
+  const dogName = ['Husky'];
+  const dogBreed = ['Papillon'];
+  return("Throw the frisbee for " + dogName + " the " + dogBreed);
 }
+
 
 function walkHome(dogName, dogBreed) {
   return("Wake " + dogName[1] + " the " + dogBreed[1]);
