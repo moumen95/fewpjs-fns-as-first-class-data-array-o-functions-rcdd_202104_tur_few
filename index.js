@@ -1,4 +1,4 @@
-let 
+let routine = ["wakeDog", "leashDog", "walkToPark", "throwFrisbee", "walkHome", "unleashDog"];
 
 function wakeDog(dogName, dogBreed) {
   // const dogName = ['Xerox'];
