@@ -24,7 +24,7 @@ function throwFrisbee() {
   return("Throw the frisbee for " + dogName + " the " + dogBreed);
 }
 
-function throwFrisbee() {
+function walkHome() {
   const dogName = ['Mary J. Blige'];
   const dogBreed = ['Papillon'];
   return("Throw the frisbee for " + dogName + " the " + dogBreed);
