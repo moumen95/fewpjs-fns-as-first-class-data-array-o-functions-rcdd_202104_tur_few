@@ -10,7 +10,7 @@ function leashDog() {
   const dogName = ['Boo Radley'];
   const dogBreed = ['Pibble'];
 
-  return("Wake " + dogName + " the " + dogBreed);
+  return("Leash " + dogName + " the " + dogBreed);
 }
 
 
