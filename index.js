@@ -1,8 +1,8 @@
 let routine = ["wakeDog", "leashDog", "walkToPark", "throwFrisbee", "walkHome", "unleashDog"];
 
 function wakeDog(dogName, dogBreed) {
-  // const dogName = ['Xerox'];
-  // const dogBreed = ['Border Collie'];
+  const dogName = ['Xerox'];
+  const dogBreed = ['Border Collie'];
 
   return("Wake " + dogName + " the " + dogBreed);
 }
