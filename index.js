@@ -11,8 +11,7 @@ function wakeDog() {
 function leashDog() {
   const dogName = ['Boo Radley'];
   const dogBreed = ['Pibble'];
-
-  return("Wake " + dogName[1] + " the " + dogBreed[1]);
+  return("Wake " + dogName + " the " + dogBreed);
 }
 
 function walkToPark(dogName, dogBreed) {
