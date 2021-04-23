@@ -23,7 +23,7 @@ function walkToPark() {
 function throwFrisbee() {
   const dogName = ['Mary J. Blige'];
   const dogBreed = ['Papillon'];
-  return("Walk to the park with " + dogName + " the " + dogBreed);
+  return("Throw the frisbee for " + dogName + " the " + dogBreed);
 }
 
 function throwFrisbee(dogName, dogBreed) {
