@@ -22,7 +22,7 @@ function walkToPark() {
 
 function throwFrisbee() {
   const dogName = ['Mary J. Blige'];
-  const dogBreed = ['Labrador'];
+  const dogBreed = ['Papillon'];
   return("Walk to the park with " + dogName + " the " + dogBreed);
 }
 
