@@ -24,6 +24,12 @@ function throwFrisbee() {
   return("Throw the frisbee for " + dogName + " the " + dogBreed);
 }
 
+function throwFrisbee() {
+  const dogName = ['Mary J. Blige'];
+  const dogBreed = ['Papillon'];
+  return("Throw the frisbee for " + dogName + " the " + dogBreed);
+}
+
 function walkHome() {
   const dogName = ['Husky'];
   const dogBreed = ['Santa Paws'];
