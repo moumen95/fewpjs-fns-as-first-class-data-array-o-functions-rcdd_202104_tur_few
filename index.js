@@ -27,6 +27,6 @@ function unleashDog(dogName, dogBreed) {
 
 function exerciesDog(dogName, dogBreed){
   let exercies = [];
-  for (let i = 0; i < exerciesDog.length ; i++);
+  for (let i = 0; i < routine.length ; i++);
   return (exercies);
 }
