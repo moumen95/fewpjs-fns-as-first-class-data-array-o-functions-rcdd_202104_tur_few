@@ -8,7 +8,10 @@ function wakeDog() {
 }
 
 
-function leashDog(dogName, dogBreed) {
+function leashDog() {
+  const dogName = ['Boo Radley'];
+  const dogBreed = ['Pibble'];
+
   return("Wake " + dogName[1] + " the " + dogBreed[1]);
 }
 
