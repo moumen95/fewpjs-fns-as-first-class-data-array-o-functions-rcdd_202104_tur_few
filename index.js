@@ -1,6 +1,9 @@
   const dogName = ['Xerox', "Boo Radley", "Bunny", "Mary J. Blige", "Santa Paws", "Lauren"];
   const dogBreed = ['Border Collie', 'Pibble'];
-function wakeDog(dogName, dogBreed) {
+function wakeDog() {
+    const dogName = ['Xerox', "Boo Radley", "Bunny", "Mary J. Blige", "Santa Paws", "Lauren"];
+  const dogBreed = ['Border Collie', 'Pibble'];
+
   return("Wake " + dogName[0] + " the " + dogBreed[0]);
 }
 
