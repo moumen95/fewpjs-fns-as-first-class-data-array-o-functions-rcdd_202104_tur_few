@@ -19,7 +19,7 @@ function walkToPark() {
   const dogBreed = ['Labrador'];
   return("Walk to the park with " + dogName + " the " + dogBreed);
 }
-
+Husky
 function throwFrisbee() {
   const dogName = ['Mary J. Blige'];
   const dogBreed = ['Papillon'];
