@@ -33,10 +33,8 @@ function walkHome() {
 
 function unleashDog() {
   const dogName = ['Lauren'];
-  const dogBreed = ['Santa Paws'];
-  return("Walk home with " + dogName + " the " + dogBreed);
+  const dogBreed = ['Golden Retriever'];
+  return("Unleash " + dogName + " the " + dogBreed);
 }
 
-function unleashDog(dogName, dogBreed) {
-  return("Wake " + dogName[1] + " the " + dogBreed[1]);
-}
+
