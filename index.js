@@ -28,7 +28,7 @@ function unleashDog(dogName, dogBreed) {
 function exerciseDog(dogName, dogBreed){
   let exercise = [];
   for (let i = 0; i < routine.length ; i++);
-  arr.push(routine[i](dogName, dogBreed));
-
+  exercise.push(routine[i](dogName, dogBreed));
+}
   return (exercise);
 }
