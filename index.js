@@ -17,7 +17,7 @@ function throwFrisbee(dogName, dogBreed) {
   return("Wake " + dogName[1] + " the " + dogBreed[1]);
 }
 
-function leashDog(dogName, dogBreed) {
+function walkHome(dogName, dogBreed) {
   return("Wake " + dogName[1] + " the " + dogBreed[1]);
 }
 
